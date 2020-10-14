@@ -44,29 +44,29 @@
     "Staffed All Beds [Per 1000 Adults (20+)]": [
         0.0,
         1.636,
-        2.66,
+        2.662,
         4.149,
         39.077
     ],
     "Staffed All Beds [Per 1000 Elderly (65+)]": [
         0.0,
         6.672,
-        11.018,
+        11.02,
         17.47,
-        155.666
+        156.164
     ],
     "Staffed ICU Beds [Per 1000 People]": [
         0.0,
         0.0,
         0.113,
-        0.238,
+        0.239,
         3.728
     ],
     "Staffed ICU Beds [Per 1000 Adults (20+)]": [
         0.0,
         0.0,
         0.151,
-        0.316,
+        0.317,
         4.797
     ],
     "Staffed ICU Beds [Per 1000 Elderly (65+)]": [
